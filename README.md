@@ -36,8 +36,14 @@ Interactive slicers and filters
 Clean and user-friendly UI/UX design
 
 📂 Files Included
-SuperstoreDashboard.pbix: Power BI project file
+SuperstoreDashboard.pbix: Power BI pr
+
+https://github.com/user-attachments/assets/c4bdc893-d51d-4d4c-87a1-09acf0f73b3c
+
+oject file
 
 README.md: Project documentation
 
 Sample screenshots or GIFs of dashboard UI
+
+
